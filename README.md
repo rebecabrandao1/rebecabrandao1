@@ -1,13 +1,12 @@
 # 👋 Olá, eu sou Rebeca!
 
-Sou graduanda em **Engenharia de Computação** pela UFAL e apaixonada por tecnologia! Gosto de explorar novas ferramentas e criar soluções inovadoras.
+Sou graduanda em **Engenharia de Computação** pela **UFAL** e gosto de explorar coisas novas!
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvendo soluções criativas e eficientes
+- 💻 Desenvolvendo soluções criativas
 - 📚 Estudando **visão computacional** aplicada à detecção de nódulos pulmonares e análise de algoritmos
-- 🧪 Praticando **desenvolvimento orientado a testes (TDD)**
-- 🌱 Atualmente aprimorando minhas habilidades em **Node.js** e **React.js**
+- 🌱 Atualmente aprimorando minhas habilidades de desenvolvimento em **Node.js** e **React.js**
 
 ---
 
@@ -91,21 +90,7 @@ Sou graduanda em **Engenharia de Computação** pela UFAL e apaixonada por tecno
 
 ---
 
-## 🎨 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rebecabrandao1/rebecabrandao1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rebecabrandao1/rebecabrandao1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rebecabrandao1/rebecabrandao1/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
-
-## 📫 Vamos nos conectar?
+## 📫 Onde me encontrar
 
 <div align="center">
 
