@@ -4,7 +4,7 @@ Sou graduanda em **Engenharia de Computação** pela **UFAL** e gosto de explora
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvendo soluções criativas
+- 💻 Sou desenvolvedora Full-Stack no Orion
 - 📚 Estudando **visão computacional** aplicada à detecção de nódulos pulmonares e análise de algoritmos
 - 🌱 Atualmente aprimorando minhas habilidades de desenvolvimento em **Node.js** e **React.js**
 
