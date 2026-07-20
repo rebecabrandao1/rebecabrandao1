@@ -1,6 +1,6 @@
 ## 👋 About me
 
-- 💻 I'm a computer engineering student at UFAL 
+- 💻 I graduated in Computer Engineering from UFAL 
 - 📚 Currently working with full-stack development and on my undergraduate thesis (AI applied to Health)
 - 🌱 Currently learning math, web development, computer vision and DSA.
 - 🗣️ Currently learning German (Ich lerne Deutsch!)
