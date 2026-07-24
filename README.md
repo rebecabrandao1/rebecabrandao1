@@ -1,6 +1,6 @@
 ## 👋 About me
 
-- 💻 I graduated in Computer Engineering from UFAL 
+- 💻 Computer Engineering at Federal University of Alagoas 
 - 📚 Currently working with full-stack development and on my undergraduate thesis (AI applied to Health)
 - 🌱 Currently learning math, web development, computer vision and DSA.
 - 🗣️ Currently learning German (Ich lerne Deutsch!)
