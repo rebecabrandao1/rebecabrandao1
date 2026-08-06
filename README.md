@@ -1,7 +1,7 @@
 ## 👋 About me
 
-- 💻 Computer Engineering at Federal University of Alagoas 
-- 📚 Currently working with full-stack development and on my undergraduate thesis (AI applied to Health)
+- 💻 Bsc. in computer engineering
+- 📚 Currently working with full-stack development
 - 🌱 Currently learning math, web development, computer vision and DSA.
 - 🗣️ Currently learning German (Ich lerne Deutsch!)
 
