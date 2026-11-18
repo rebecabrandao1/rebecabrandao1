@@ -48,7 +48,7 @@
 ## 📫 Find me
 
 <div align="center">
-
+![LinkedIn](https://www.linkedin.com/in/rebeca-brand%C3%A3o-17a812198/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebecabrandao1)
 
 </div>
